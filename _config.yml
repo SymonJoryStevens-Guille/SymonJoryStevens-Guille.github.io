@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Symon Jory Stevens-Guille"
-  avatar           : "/images/Mulder.jpg"
+  avatar           : "images/Mulder.jpg"
   bio              : "Linguist, allegedly"
   location         : "Columbus, Ohio"
   employer         : 
