@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Symon Jory Stevens-Guille / symonjsg.github.io"
+title                    : "Symon Jory Stevens-Guille"
 title_separator          : "-"
 name                     : &name "Symon Jory Stevens-Guille"
 description              : &description "PhD Student, Department of Linguistics, The Ohio State University"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Louisville # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
